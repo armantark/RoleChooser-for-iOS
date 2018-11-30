@@ -15,6 +15,7 @@
 		1BC4535F21AF983A0042252B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BC4535D21AF983A0042252B /* LaunchScreen.storyboard */; };
 		1BC4536A21AF983A0042252B /* RoleChooserTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BC4536921AF983A0042252B /* RoleChooserTests.swift */; };
 		1BC4537521AF983A0042252B /* RoleChooserUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BC4537421AF983A0042252B /* RoleChooserUITests.swift */; };
+		1BC4538321AFC6E60042252B /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BC4538221AFC6E60042252B /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1BC4537021AF983A0042252B /* RoleChooserUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RoleChooserUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1BC4537421AF983A0042252B /* RoleChooserUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoleChooserUITests.swift; sourceTree = "<group>"; };
 		1BC4537621AF983A0042252B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1BC4538221AFC6E60042252B /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				1BC4535321AF98350042252B /* ViewController.swift */,
 				1BC4535521AF98350042252B /* Main.storyboard */,
 				1BC4535B21AF983A0042252B /* Assets.xcassets */,
+				1BC4538221AFC6E60042252B /* Model.swift */,
 				1BC4535D21AF983A0042252B /* LaunchScreen.storyboard */,
 				1BC4536021AF983A0042252B /* Info.plist */,
 				1BC4535821AF98350042252B /* RoleChooser.xcdatamodeld */,
@@ -262,6 +265,7 @@
 				1BC4535421AF98350042252B /* ViewController.swift in Sources */,
 				1BC4535A21AF98350042252B /* RoleChooser.xcdatamodeld in Sources */,
 				1BC4535221AF98350042252B /* AppDelegate.swift in Sources */,
+				1BC4538321AFC6E60042252B /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
